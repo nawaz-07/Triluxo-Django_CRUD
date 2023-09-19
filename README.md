@@ -6,7 +6,7 @@ A Python-based RESTful API for managing a simple task list. This API allows user
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/task-list-api.git
+   git clone https://github.com/nawaz-07/Triluxo-Django_CRUD.git
    cd task-list-api
    
 
